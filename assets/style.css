@@ -1,0 +1,10 @@
+body {
+    background-color: #ada9a9;
+}
+.jumbotron {
+   padding-left: 30%;
+   background-color: #f5bbbb;
+}
+.grid-item {
+    margin: 10%;
+}
