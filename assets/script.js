@@ -1064,6 +1064,61 @@ var links = [
         category: "html"
     },
     {
+        href: "https://medium.freecodecamp.org/javascript-callbacks-explained-using-minions-da272f4d9bcd",
+        text: "JavaScript Callbacks Explained Using Minions: ",
+        category: "javascript"
+    },
+    {
+        href: "https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2",
+        text: "The SQL vs NoSQL Difference: MySQL vs MongoDB: ",
+        category: "mysql"
+    },
+    {
+        href: "http://www.jamesserra.com/archive/2015/08/relational-databases-vs-non-relational-databases/",
+        text: "Relational databases vs Non-relational databases: ",
+        category: "mysql"
+    },
+    {
+        href: "http://www.mysqltutorial.org/wp-content/uploads/0211/03/MySQL-Data-Types.jpg",
+        text: "MySQL Data Types: ",
+        category: "mysql"
+    },
+    {
+        href: "https://www.virendrachandak.com/techtalk/mysql-int11-what-does-it-means/",
+        text: "What does int(11) mean in MySQL? ",
+        category: "mysql"
+    },
+    {
+        href: "https://www.tutorialspoint.com/sql/sql-primary-key.htm",
+        text: "MySQL Primary Keys: ",
+        category: "mysql"
+    },
+    {
+        href: "https://www.techonthenet.com/mysql/tables/alter_table.php",
+        text: "Use ALTER TABLE statement to add, modify, or drop/delete columns in a table: ",
+        category: "mysql"
+    },
+    {
+        href: "https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/",
+        text: "A Visual Explanation of SQL Joins: ",
+        category: "mysql"
+    },
+    {
+        href: "https://www.youtube.com/watch?v=5tcyKHHbS7U",
+        text: "Favorites DB Video Walkthrough: ",
+        category: "mysql"
+    },
+    {
+        href: "https://sqlzoo.net/",
+        text: "SQLZoo: ",
+        category: "mysql"
+    },
+    {
+        href: "https://www.sqlteaching.com/",
+        text: "SQL Teaching: ",
+        category: "mysql"
+    },
+    {
         href: "",
         text: " ",
         category: ""
@@ -1073,6 +1128,17 @@ var links = [
         text: " ",
         category: ""
     },
+    {
+        href: "",
+        text: " ",
+        category: ""
+    },
+    {
+        href: "",
+        text: " ",
+        category: ""
+    },
+
 
 
 
