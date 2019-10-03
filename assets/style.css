@@ -8,3 +8,10 @@ body {
 .grid-item {
     margin: 10%;
 }
+a {
+    color: #070101;
+    font-size: large;
+}
+#back {
+    margin-bottom: 3%;
+}
