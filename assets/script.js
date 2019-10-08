@@ -1119,9 +1119,44 @@ var links = [
         category: "mysql"
     },
     {
-        href: "",
-        text: " ",
-        category: ""
+        href: "https://www.dofactory.com/sql/having",
+        text: "HAVING and HAVING + GROUP BY Clause: ",
+        category: "mysql"
+    },
+    {
+        href: "https://community.modeanalytics.com/sql/tutorial/sql-group-by/",
+        text: "SQL GROUP BY Clause: ",
+        category: "mysql"
+    },
+    {
+        href: "https://www.w3schools.com/sql/sql_between.asp",
+        text: "SQL BETWEEN Operator: ",
+        category: "mysql"
+    },
+    {
+        href: "http://www.mysqltutorial.org/mysql-count/",
+        text: "MySQL COUNT: ",
+        category: "mysql"
+    },
+    {
+        href: "https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/",
+        text: "A Visual Explanation of SQL Joins: ",
+        category: "mysql"
+    },
+    {
+        href: "https://atech.blog/viaduct/mysql-indexes-primer",
+        text: "MySQL Indexing Explained: ",
+        category: "mysql"
+    },
+    {
+        href: "https://www.youtube.com/watch?v=CJDp8W9xIVU",
+        text: "Example of Setting An Index: ALTER TABLE top5000 ADD INDEX song (song); which would speed up queries based on the ‘song’ field: SELECT * from top5000 WHERE song = 'freebird'; Two Databases Video Walkthrough: ",
+        category: "mysql"
+    },
+    {
+        href: "https://www.sqlteaching.com/",
+        text: "SQL Teaching: ",
+        category: "mysql"
     },
     {
         href: "",
@@ -1138,6 +1173,7 @@ var links = [
         text: " ",
         category: ""
     },
+
 
 
 
