@@ -1159,6 +1159,86 @@ var links = [
         category: "mysql"
     },
     {
+        href: "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data",
+        text: "Sending Form Data (more a conceptual discussion): ",
+        category: "node"
+    },
+    {
+        href: "https://nodejs.org/api/http.html#http_response_writehead_statuscode_statusmessage_headers",
+        text: "Node’s response.writeHead(): ",
+        category: "node"
+    },
+    {
+        href: "https://nodejs.org/api/http.html#http_response_end_data_encoding_callback",
+        text: "Node’s response.end(): ",
+        category: "node"
+    },
+    {
+        href: "https://nodejs.org/docs/latest/api/modules.html#modules_dirname",
+        text: "Node __dirname (you’ll use this often!):  ",
+        category: "node"
+    },
+    {
+        href: "https://www.speedguide.net/ports.php",
+        text: "Ports Database (find out what processes run on certain ports):  ",
+        category: "express"
+    },
+    {
+        href: "https://expressjs.com/en/guide/routing.html#response-methods",
+        text: "Express terminal response methods (res.send(), res.end(), res.json(), etc etc):  ",
+        category: "express"
+    },
+    {
+        href: "https://http.cat/",
+        text: "Status Cats: ",
+        category: "node"
+    },
+    {
+        href: "https://httpstatusdogs.com/",
+        text: "Status Dogs: ",
+        category: "node"
+    },
+    {
+        href: "https://moz.com/blog/response-codes-explained-with-pictures",
+        text: "Status Comics (status codes explained):  ",
+        category: "node"
+    },
+    {
+        href: "https://expressjs.com/en/guide/using-middleware.html",
+        text: "Express middleware",
+        category: "express"
+    },
+    {
+        href: "https://medium.com/@jamischarles/what-is-middleware-a-simple-explanation-bb22d6b41d01",
+        text: "What is Middleware? A Simple Explanation: ",
+        category: "express"
+    },
+    {
+        href: "https://scotch.io/tutorials/use-expressjs-to-get-url-and-post-parameters",
+        text: "Use Express.js to Get URL and POST params: ",
+        category: "express"
+    },
+    {
+        href: "https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4",
+        text: "Building a RESTful API w/Node and Express: ",
+        category: "express"
+    },
+    {
+        href: "https://du.bootcampcontent.com/denver-coding-bootcamp/DU-DEN-FSF-FT-08-2019-U-C/blob/master/Resources/Express/middleware-chaining-examples.js",
+        text: "Middleware Chaining Example: ",
+        category: "express"
+    },
+    {
+        href: "https://www.youtube.com/watch?v=ygk-kNstqK0",
+        text: "Star Wars Activity Video Walkthrough: ",
+        category: "express"
+    },
+    {
+        href: "",
+        text: " ",
+        category: ""
+    },
+    {
         href: "",
         text: " ",
         category: ""
@@ -1173,9 +1253,31 @@ var links = [
         text: " ",
         category: ""
     },
-
-
-
+    {
+        href: "",
+        text: " ",
+        category: ""
+    },
+    {
+        href: "",
+        text: " ",
+        category: ""
+    },
+    {
+        href: "",
+        text: " ",
+        category: ""
+    },
+    {
+        href: "",
+        text: " ",
+        category: ""
+    },
+    {
+        href: "",
+        text: " ",
+        category: ""
+    },
 
 
 
